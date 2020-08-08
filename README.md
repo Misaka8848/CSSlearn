@@ -1,4 +1,4 @@
-# 项目名 · ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/PRs-welcome-green)
+# <font color=#0099ff  >项目名</font> · ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/PRs-welcome-green)
 
 ## 课程地址
 
